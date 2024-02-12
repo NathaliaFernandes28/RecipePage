@@ -12,7 +12,12 @@ de um omelete, com os ingredientes, instruções e o valor nutricional da receit
   - #854632
   - rgb(123, 40, 79, 0.3)
 
- 
+ * Ferramentas
+   - Html
+   - Css
+   - Sass
+   - Responsividade
+   
 * Imagem
     
     ![image-omelette](https://github.com/NathaliaFernandes28/RecipePage/assets/88513545/0b7e0ff4-7a9f-4477-8b5f-a4a3b51d1f32)
